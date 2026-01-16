@@ -1,6 +1,7 @@
 # openJourno
 
-**openJourno** is a free and open-source journalism platform that covers news, events, career opportunities, scholarships, books, movies, and more. Our mission is to provide community-driven, transparent, and verified reporting beyond mainstream headlines.
+**openJourno** is a free and open-source journalism platform that covers news, events, career opportunities, scholarships, books, movies, and more.
+Our mission is to provide community-driven, transparent, and verified reporting beyond mainstream headlines.
 
 ## Features
 - Highlight overlooked news stories
