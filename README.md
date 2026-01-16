@@ -1,16 +1,16 @@
-## Hi there 👋
+# openJourno
 
-<!--
-**openjourno/openJourno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**openJourno** is a free and open-source journalism platform that covers news, events, career opportunities, scholarships, books, movies, and more. Our mission is to provide community-driven, transparent, and verified reporting beyond mainstream headlines.
 
-Here are some ideas to get you started:
+## Features
+- Highlight overlooked news stories
+- Curated events and opportunities
+- Career guidance and scholarships
+- Book and movie recommendations
+- Open-source and community-focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/openjourno.git
+
