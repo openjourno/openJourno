@@ -12,5 +12,5 @@
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/openjourno/openjourno.git
+   git clone https://github.com/openjourno/openJourno.git
 
